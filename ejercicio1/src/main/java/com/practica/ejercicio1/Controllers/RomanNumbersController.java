@@ -1,3 +1,10 @@
+/**
+ * Desarrollar una API para convertir un número Decimal a un número romano.
+ *
+ * @author  Sofia Pigino (Grupo 1)
+ * @version 1.0
+ */
+
 package com.practica.ejercicio1.Controllers;
 
 import com.practica.ejercicio1.Entities.RomanNumbers;
