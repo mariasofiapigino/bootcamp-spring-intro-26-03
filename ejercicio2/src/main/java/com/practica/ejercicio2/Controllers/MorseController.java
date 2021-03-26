@@ -1,3 +1,10 @@
+/**
+ * Desarrollar un API que reciba un Codigo Morse y devuelva su traducción.
+ *
+ * @author  Sofia Pigino (Grupo 1)
+ * @version 1.0
+ */
+
 package com.practica.ejercicio2.Controllers;
 
 import com.practica.ejercicio2.Entities.Morse;
